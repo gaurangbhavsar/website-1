@@ -9,3 +9,4 @@ You can find the current repositories here:
 - [The Guides](https://github.com/ember-learn/guides-source)
 - Builds and Status Board are part of the main website above
 
+-THANK YOU FOR VISITING THE WEBSITE . 
